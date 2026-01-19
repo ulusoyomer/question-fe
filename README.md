@@ -1,6 +1,6 @@
-# Voltran Frontend
+Frontend
 
-Voltran mobil uygulaması, **Flutter** kullanılarak ve **Clean Architecture** mimarisi ile geliştirilmiştir.
+Question mobil uygulaması, **Flutter** kullanılarak ve **Clean Architecture** mimarisi ile geliştirilmiştir.
 
 ## 🛠 Teknoloji Yığını
 
